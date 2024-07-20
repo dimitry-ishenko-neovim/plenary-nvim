@@ -1,5 +1,5 @@
-plenary-nvim (2024.05.20-a3e3bc82a-1) UNRELEASED; urgency=medium
+plenary-nvim (2024.05.20-a3e3bc82a-1) unstable; urgency=medium
 
   * Initial release.
 
- -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Fri, 19 Jul 2024 19:45:06 -0400
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Fri, 19 Jul 2024 21:17:31 -0400
