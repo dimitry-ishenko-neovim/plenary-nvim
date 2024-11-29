@@ -1,3 +1,17 @@
+plenary-nvim (2024.09.17-2d9b06177-1) unstable; urgency=medium
+
+  [ Micah Halter ]
+  * feat(json): add abliity to remove trailing commas while stripping
+    comments (#613)
+
+  [ chottolabs ]
+  * docs: fix typo in annotation for enable_recording (#620)
+
+  [ JINNOUCHI Yasushi ]
+  * fix: return early to avoid errors with no asyncfns (#616)
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Fri, 29 Nov 2024 11:12:53 -0500
+
 plenary-nvim (2024.05.20-a3e3bc82a-1) unstable; urgency=medium
 
   * Initial release.
