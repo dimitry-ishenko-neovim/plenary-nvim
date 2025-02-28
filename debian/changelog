@@ -1,3 +1,48 @@
+plenary-nvim (2025.02.11-1) unstable; urgency=medium
+
+  [ Simon Hauser ]
+  * break!: drop v0.7.2 support as e9b1d87 introduced a breaking change
+
+  [ Violet Shreve ]
+  * fix(path): make find_upwards() search root (#506)
+
+  [ Juho Eerola ]
+  * fix(curl): Do not reuse URL from previous call (#602)
+
+  [ Arsen Kitov ]
+  * feat(filetypes): add cppm filetype (#581)
+
+  [ moetayuko ]
+  * fix(json): mark `options` argument of `json_strip_comments` optional
+    (#606)
+
+  [ Alex George ]
+  * fix(log): Use `stdpath('log')` (#607)
+
+  [ Ron Suhodrev ]
+  * feat: add cairo language filetype (#610)
+
+  [ Emmet Murray ]
+  * feat: Add swift filetype. (#624)
+
+  [ Stefan Zuefeldt ]
+  * fix: corrected Path:find_upwards (#641)
+
+  [ JINNOUCHI Yasushi ]
+  * feat(async): enable to wrap uv.fs_opendir() (#625)
+
+  [ Simon Hauser ]
+  * fix: ci and bump nvim v0.10 version (#645)
+
+  [ Tomas Slusny ]
+  * curl: Fix response status parsing (#633)
+
+  [ msvechla ]
+  * fix: process all data on_output, even when not terminated with
+    newline (#635)
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Fri, 28 Feb 2025 14:50:21 -0500
+
 plenary-nvim (2024.09.17-2d9b06177-1) unstable; urgency=medium
 
   [ Micah Halter ]
