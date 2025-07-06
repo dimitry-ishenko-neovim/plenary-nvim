@@ -4,9 +4,14 @@ Upstream-Name: plenary.nvim
 Upstream-Contact: TJ DeVries <devries.timothyj@gmail.com>
 
 Files: *
-Copyright: 2020-2024 The plenary.nvim authors
-License: MIT
+Copyright:
+ 2018-2020, Charles Mallah
+ 2005-2021, Mike Pall
+ 2012-2018, Olivine Labs, LLC
+ 2008-2011, David Manura. Licensed under the same terms as Lua (MIT)
+ 2020, TJ DeVries
+License: Expat
 
 Files: debian/*
-Copyright: 2024 Dimitry Ishenko <dimitry.ishenko@gmail.com>
-License: GPL-3.0+
+Copyright: 2024-2025, Dimitry Ishenko <dimitry.ishenko@gmail.com>
+License: GPL-2+
