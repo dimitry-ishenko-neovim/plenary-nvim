@@ -1,3 +1,9 @@
+plenary-nvim (1:0.1.4-37-g857c-1) unstable; urgency=medium
+
+  * Change versioning scheme.
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Wed, 09 Jul 2025 14:23:08 -0400
+
 plenary-nvim (2025.02.11-2) unstable; urgency=medium
 
   * d/copyright: update
